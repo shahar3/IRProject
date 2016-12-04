@@ -23,6 +23,7 @@ namespace IRProject
         public MainWindow()
         {
             InitializeComponent();
+            ReadFile rf = new ReadFile();
         }
     }
 }
