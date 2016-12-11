@@ -10,6 +10,7 @@ namespace IRProjectConsole
     {
         static void Main(string[] args)
         {
+            //start reading the corpus
             ReadFile rf = new ReadFile();
             Console.ReadKey();
         }
